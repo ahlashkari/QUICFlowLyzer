@@ -1,4 +1,4 @@
-![](https://github.com/ahlashkari/UDPFlowLyzer/blob/main/bccc.jpg)
+![](https://github.com/ahlashkari/QUICFlowLyzer/blob/main/bccc.jpg)
 
 # QUICFlowLyzer
 
