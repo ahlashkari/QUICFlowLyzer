@@ -1,3 +1,5 @@
+![](https://github.com/ahlashkari/UDPFlowLyzer/blob/main/bccc.jpg)
+
 # QUICFlowLyzer
 
 QUICFlowLyzer is a header-only QUIC network traffic analyzer for extracting QUIC packet and flow-level features from PCAP/PCAPNG traffic.
@@ -47,3 +49,27 @@ python3 -m quic_cap.features.feat_cli \
 ## Notes
 
 Large PCAP files, generated CSV outputs, virtual environments, and private datasets are intentionally excluded from this repository.
+
+
+# Citation & Copyright (c) 2023
+
+For citation in your works and also understanding NTLFlowLyzer completely, you can find below published papers:
+
+- 
+
+# Contributing
+
+Any contribution is welcome in form of pull requests.
+
+
+# Project Team members 
+
+* [**Arash Habibi Lashkari:**](http://ahlashkari.com/index.asp) Founder and supervisor
+
+* [**Sepehr Jafari:**](https://github.com/Aeripsen) Research Assistant - York University ( 2025 - 2026)
+
+
+# Acknowledgment
+
+This project has been made possible through funding from the Natural Sciences and Engineering Research Council of Canada — NSERC (#RGPIN-2020-04701) and Canada Research Chair (Tier II) - (#CRC-2021-00340) to Arash Habibi Lashkari.
+
