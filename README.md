@@ -51,11 +51,11 @@ python3 -m quic_cap.features.feat_cli \
 Large PCAP files, generated CSV outputs, virtual environments, and private datasets are intentionally excluded from this repository.
 
 
-# Citation & Copyright (c) 2023
+# Citation & Copyright (c) 2026
 
 For citation in your works and also understanding NTLFlowLyzer completely, you can find below published papers:
 
-- 
+- Jafari, S.; Shafi, M. and Lashkari, A. H., Unveiling Hierarchical Machine Learning UDP–QUIC Intrusion Detection: Protocol-Aware Flow Analysis and a New Generated DDoS Dataset, International Conference on Security and Cryptography (SECRYPT) 2026, Portugal
 
 # Contributing
 
@@ -66,7 +66,7 @@ Any contribution is welcome in form of pull requests.
 
 * [**Arash Habibi Lashkari:**](http://ahlashkari.com/index.asp) Founder and supervisor
 
-* [**Sepehr Jafari:**](https://github.com/Aeripsen) Research Assistant - York University ( 2025 - 2026)
+* [**Sepehr Jafari:**](https://github.com/Aeripsen) Research Assistant - York University (2025 - 2026)
 
 
 # Acknowledgment
