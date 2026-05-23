@@ -12,6 +12,13 @@ QUICFlowLyzer is a header-only QUIC network traffic analyzer for extracting QUIC
 - Exports QUIC flow records and feature tables as CSV files
 - Includes QUIC-specific feature extraction logic
 
+## Feature Visualization
+
+The figure below shows the QUICFlowLyzer feature taxonomy, organized by feature category and subgroup.
+
+![QUICFlowLyzer Feature Taxonomy](feature_taxonomy.svg)
+
+
 ## Installation
 
 Create a virtual environment and install the package:
