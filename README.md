@@ -86,7 +86,7 @@ To cite QUICFLowLyzer in your work and understand it completely, find the follow
 
 ## Team Members 
 
-* [**Arash Habibi Lashkari**](http://ahlashkari.com/index.asp): Founder and supervisor
+* [**Arash Habibi Lashkari**](http://ahlashkari.com/index.asp): Founder and Supervisor
 
 * [**Sepehr Jafari**](https://github.com/Aeripsen): Research Assistant - York University (2025–2026)
 
