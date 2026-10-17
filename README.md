@@ -81,6 +81,7 @@ To cite QUICFLowLyzer in your work and understand it completely, find the follow
     pages={46-68},
     isbn={978-989-758-858-7},
     doi={10.5220/0015033600004103}
+}
 ```
 
 ## Team Members 
