@@ -62,12 +62,15 @@ python3 -m quic_cap.features.feat_cli \
 
 Large PCAP files, generated CSV outputs, virtual environments, and private datasets are intentionally excluded from this repository.
 
+
+## Contributing
+
 Contributions are welcome in the form of pull requests. 
 
 
 ## Copyright (c) 2026 & Citation
 
-For citation in your works and also understanding NTLFlowLyzer completely, you can find below published papers:
+To cite QUICFLowLyzer in your work and understand it completely, find the following published paper:
 
 ```
 @inproceedings{jafari_2026,
