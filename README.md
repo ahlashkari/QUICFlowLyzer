@@ -87,7 +87,7 @@ To cite QUICFLowLyzer in your work and understand it completely, find the follow
 
 * [**Arash Habibi Lashkari:**](http://ahlashkari.com/index.asp) Founder and supervisor
 
-* [**Sepehr Jafari:**](https://github.com/Aeripsen) Research Assistant, York University (2025–2026)
+* [**Sepehr Jafari:**](https://github.com/Aeripsen) Research Assistant - York University (2025–2026)
 
 
 ## Acknowledgment
